@@ -1,0 +1,36 @@
+body{
+    background-color: #fafafa;}
+
+body > div:nth-child(4){
+    background-color: #24246a; color: #fafafa;}
+body > div:nth-child(4) a{
+    color: #fafafa;}
+body > div:nth-child(4) a:hovar{
+    color: #353535;}
+.navbar-brand{
+    background-color: #fafafa;}
+
+.jumbotron{
+    background-color: #fafafa; color: #111111;}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus{
+    background-color: #24246a; color: #fafafa;}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus{
+    background-color: #24246a; color: #fafafa;}
+.table > thead > tr > th{
+    background-color: #24246a; color: #fafafa;}
+.tablesorter-bootstrap
+.tablesorter-header,
+.tablesorter-bootstrap tfoot th,
+.tablesorter-bootstrap tfoot td{
+    background-color: #24246a; color: #fafafa;}
+.table-striped > tbody > tr:nth-of-type(odd){
+    background-color: #d4e8f3;}
+
+.label-warning{
+    background-color: #24246a;}
